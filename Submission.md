@@ -43,7 +43,7 @@ Ensures users can input coupons in any case (e.g., 'save10', 'SAVE10') without v
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? Yes (Locally verified)
-- GitHub Actions Run URL: <Link to your GitHub Actions run>
+- GitHub Actions Run URL: [https://github.com/Mario5T/jest-workshop/actions]
 
 ---
 
