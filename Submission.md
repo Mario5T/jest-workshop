@@ -2,8 +2,8 @@
 
 ## Student Details
 - Name: Aditya Singh
-- Roll Number: <Your Roll Number>
-- GitHub Username: adityasingh
+- Roll Number: 2024-B-22072006E
+- GitHub Username: mario5t
 
 ---
 
